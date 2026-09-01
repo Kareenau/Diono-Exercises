@@ -1,0 +1,49 @@
+AI PROMPTS USED FOR THE EXERCISES
+=================================
+
+Exercise 1
+----------
+
+Prompt:
+
+"Create a simple and user-friendly web page for Exercise 1 based on the given requirements. Use HTML, CSS, and JavaScript. Keep the code clean, simple, and beginner-friendly. Make sure the output matches the required functionality and design. Separate the HTML, CSS, and JavaScript into appropriate files."
+
+
+Exercise 2
+----------
+
+Prompt:
+
+"Create a simple and user-friendly web page for Exercise 2 based on the given requirements. Use HTML, CSS, and JavaScript. Load the given dataset dynamically using a JSON file and JavaScript. Make sure the data is displayed correctly and the required functionality works properly. Keep the code clean, simple, and beginner-friendly."
+
+
+Dataset / Dynamic Data Prompt
+----------------------------
+
+Prompt:
+
+"Modify the JavaScript implementation so that the data is not hardcoded inside script.js. Store the dataset separately in a JSON file and load it dynamically using JavaScript. Make sure the data is displayed correctly on the webpage and that switching between datasets works properly."
+
+
+Explanation / Debugging Prompt
+------------------------------
+
+Prompt:
+
+"Review the provided HTML, CSS, JavaScript, and JSON files. Identify any errors or issues that may prevent the webpage or dataset from working correctly. Explain the problem in simple terms and provide the corrected code without changing the required functionality."
+
+
+UI / Alignment Prompt
+---------------------
+
+Prompt:
+
+"Improve the layout and alignment of the webpage so that the content, tables, text, and other elements are properly aligned and responsive. Keep the design simple and professional without changing the functionality."
+
+
+Final Verification Prompt
+--------------------------
+
+Prompt:
+
+"Check the complete implementation and verify that all required functionality is working correctly, the dataset is loaded dynamically, the UI is properly aligned, and there are no major errors. Suggest only necessary corrections."

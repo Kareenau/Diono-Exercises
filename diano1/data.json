@@ -1,0 +1,73 @@
+{
+    "workerName": "Madeleine Willson",
+    "claimNumber": "20042047",
+    "workerAppId": "712041",
+    "submitted": "March 28, 2024 20:43",
+
+    "prescriptionDrugs": [
+        {
+            "drugName": "Naproxen",
+            "prescriptionDate": "February 28, 2024",
+            "datePurchased": "February 29, 2024",
+            "healthcareProvider": "Dr. Best",
+            "paidAmount": 20
+        }
+    ],
+
+    "overTheCounterDrugs": [
+        {
+            "drugName": "Advil",
+            "datePurchased": "March 28, 2024",
+            "paidAmount": 8,
+            "seller": "Shoppers Drug Mart",
+            "reason": "Pain"
+        }
+    ],
+
+    "medicalSupplies": [
+        {
+            "itemPurchased": "Tensor",
+            "datePurchased": "February 28, 2024",
+            "prescribed": "Yes",
+            "healthcareProvider": "Dr. Best",
+            "paidAmount": 10,
+            "seller": "Shoppers Drug Mart"
+        }
+    ],
+
+    "parking": [
+        {
+            "healthcareProviderAddress": "333 St Mary Ave, Winnipeg MB R3C 4A5, Canada",
+            "date": "March 28, 2024",
+            "paidAmount": 10,
+            "meterUsed": "Yes",
+            "meterNumber": "12245"
+        }
+    ],
+
+    "mileage": [
+        {
+            "appointmentDate": "March 28, 2024",
+            "healthcareProviderAddress": "HSC, 820 Sherbrook St, Winnipeg MB R3A 1R9, Canada",
+            "workplaceAddress": "WCB, 333 Broadway, Winnipeg MB R3C 4W3, Canada",
+            "kilometers": 20
+        }
+    ],
+
+    "busTaxi": [
+        {
+            "appointmentDate": "March 28, 2024",
+            "startingPoint": "25 Furby St, Winnipeg MB R3C 2A2, Canada",
+            "healthcareProviderAddress": "HSC Winnipeg Women's Hospital, 665 William Ave, Winnipeg MB R3E 0Z2, Canada",
+            "transportationType": "Bus",
+            "totalFarePaid": 3
+        },
+        {
+            "appointmentDate": "March 27, 2024",
+            "startingPoint": "440 Edmonton St, Winnipeg MB R3B 2M4, Canada",
+            "healthcareProviderAddress": "HSC Winnipeg Women's Hospital, 665 William Ave, Winnipeg MB R3E 0Z2, Canada",
+            "transportationType": "Taxi",
+            "totalFarePaid": 15
+        }
+    ]
+}

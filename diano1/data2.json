@@ -1,0 +1,130 @@
+{
+    "workerName": "John Anderson",
+    "claimNumber": "30056789",
+    "workerAppId": "823456",
+    "submitted": "April 15, 2024 14:30",
+
+    "prescriptionDrugs": [
+        {
+            "drugName": "Naproxen",
+            "prescriptionDate": "April 10, 2024",
+            "datePurchased": "April 11, 2024",
+            "healthcareProvider": "Dr. Smith",
+            "paidAmount": 20
+        },
+        {
+            "drugName": "Tylenol",
+            "prescriptionDate": "April 12, 2024",
+            "datePurchased": "April 13, 2024",
+            "healthcareProvider": "Dr. Smith",
+            "paidAmount": 15
+        },
+        {
+            "drugName": "Ibuprofen",
+            "prescriptionDate": "April 14, 2024",
+            "datePurchased": "April 15, 2024",
+            "healthcareProvider": "Dr. Brown",
+            "paidAmount": 12
+        }
+    ],
+
+    "overTheCounterDrugs": [
+        {
+            "drugName": "Advil",
+            "datePurchased": "April 10, 2024",
+            "paidAmount": 8,
+            "seller": "Shoppers Drug Mart",
+            "reason": "Pain"
+        },
+        {
+            "drugName": "Aspirin",
+            "datePurchased": "April 12, 2024",
+            "paidAmount": 6,
+            "seller": "London Drugs",
+            "reason": "Headache"
+        },
+        {
+            "drugName": "Benadryl",
+            "datePurchased": "April 14, 2024",
+            "paidAmount": 11,
+            "seller": "Shoppers Drug Mart",
+            "reason": "Allergy"
+        }
+    ],
+
+    "medicalSupplies": [
+        {
+            "itemPurchased": "Tensor",
+            "datePurchased": "April 10, 2024",
+            "prescribed": "Yes",
+            "healthcareProvider": "Dr. Smith",
+            "paidAmount": 10,
+            "seller": "Shoppers Drug Mart"
+        },
+        {
+            "itemPurchased": "Bandage",
+            "datePurchased": "April 11, 2024",
+            "prescribed": "No",
+            "healthcareProvider": "Dr. Brown",
+            "paidAmount": 5,
+            "seller": "London Drugs"
+        },
+        {
+            "itemPurchased": "Ice Pack",
+            "datePurchased": "April 13, 2024",
+            "prescribed": "Yes",
+            "healthcareProvider": "Dr. Smith",
+            "paidAmount": 14,
+            "seller": "Shoppers Drug Mart"
+        }
+    ],
+
+    "parking": [
+        {
+            "healthcareProviderAddress": "Winnipeg Health Centre",
+            "date": "April 10, 2024",
+            "paidAmount": 12,
+            "meterUsed": "Yes",
+            "meterNumber": "10001"
+        },
+        {
+            "healthcareProviderAddress": "Downtown Winnipeg",
+            "date": "April 14, 2024",
+            "paidAmount": 8,
+            "meterUsed": "No",
+            "meterNumber": "N/A"
+        }
+    ],
+
+    "mileage": [
+        {
+            "appointmentDate": "April 10, 2024",
+            "healthcareProviderAddress": "Winnipeg Health Centre",
+            "workplaceAddress": "Home",
+            "kilometers": 15
+        },
+        {
+            "appointmentDate": "April 14, 2024",
+            "healthcareProviderAddress": "Downtown Winnipeg",
+            "workplaceAddress": "Home",
+            "kilometers": 22
+        }
+    ],
+
+    "busTaxi": [
+        {
+            "appointmentDate": "April 11, 2024",
+            "startingPoint": "Home",
+            "healthcareProviderAddress": "Healthcare Provider",
+            "transportationType": "Taxi",
+            "totalFarePaid": 25
+        },
+        {
+            "appointmentDate": "April 15, 2024",
+            "startingPoint": "Home",
+            "healthcareProviderAddress": "Pharmacy",
+            "transportationType": "Bus",
+            "totalFarePaid": 4
+        }
+    ]
+}

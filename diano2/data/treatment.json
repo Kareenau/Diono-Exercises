@@ -1,0 +1,68 @@
+[
+    {
+        "claimNumber": "20042047",
+        "painLevel": "5",
+        "medicalProvider": "Physiotherapist",
+        "lastTreatmentDate": "February 28, 2024",
+        "medicalProviderName": "Dr. James Wilson",
+        "nextTreatment": "March 12, 2024",
+        "treatmentFrequency": "Twice a week",
+        "medicationName": "Naproxen",
+
+        "notReceivingTreatment": "no",
+        "receivingTreatment": "yes",
+
+        "notTakingMedication": "no",
+        "takingMedication": "yes",
+
+        "notDoingExercises": "no",
+        "doingExercises": "yes",
+
+        "exercises": "Stretching, walking and strengthening exercises.",
+        "additionalInformation": "Overall recovery is progressing well."
+    },
+    {
+        "claimNumber": "20042048",
+        "painLevel": "7",
+        "medicalProvider": "Chiropractor",
+        "lastTreatmentDate": "March 25, 2024",
+        "medicalProviderName": "Dr. Robert Smith",
+        "nextTreatment": "April 8, 2024",
+        "treatmentFrequency": "Once a week",
+        "medicationName": "Ibuprofen",
+
+        "notReceivingTreatment": "no",
+        "receivingTreatment": "yes",
+
+        "notTakingMedication": "no",
+        "takingMedication": "yes",
+
+        "notDoingExercises": "yes",
+        "doingExercises": "no",
+
+        "exercises": "",
+        "additionalInformation": "Pain is still present during long working hours."
+    },
+    {
+        "claimNumber": "20042049",
+        "painLevel": "8",
+        "medicalProvider": "Physiotherapist",
+        "lastTreatmentDate": "April 12, 2024",
+        "medicalProviderName": "Dr. Emily Brown",
+        "nextTreatment": "April 26, 2024",
+        "treatmentFrequency": "Three times a week",
+        "medicationName": "Acetaminophen",
+
+        "notReceivingTreatment": "no",
+        "receivingTreatment": "yes",
+
+        "notTakingMedication": "no",
+        "takingMedication": "yes",
+
+        "notDoingExercises": "no",
+        "doingExercises": "yes",
+
+        "exercises": "Leg stretches and light strengthening exercises.",
+        "additionalInformation": "Further physiotherapy has been recommended."
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "claimNumber": "20042047",
+        "workerName": "Madeleine Willson",
+        "returnDate": "March 15, 2024",
+        "returnComment": "My return to work is going well.",
+        "expectedReturnDate": "March 15, 2024",
+        "returnConcerns": "No concerns at this time.",
+        "employerContact": "John Smith",
+        "contactDate": "March 1, 2024",
+        "recoveryComments": "Recovery is progressing well.",
+        "workerAppId": "APP1001",
+        "submittedDate": "March 5, 2024",
+
+        "notMissed": "no",
+        "notReturned": "no",
+        "returned": "yes",
+
+        "fullRegular": "yes",
+        "fullReduced": "no",
+        "modifiedRegular": "no",
+        "modifiedReduced": "no",
+        "otherWorking": "no",
+
+        "notRecovered": "yes",
+        "recovered": "no"
+    },
+    {
+        "claimNumber": "20042048",
+        "workerName": "Daniel Brown",
+        "returnDate": "April 10, 2024",
+        "returnComment": "My return to work is improving.",
+        "expectedReturnDate": "April 10, 2024",
+        "returnConcerns": "Some difficulty with long working hours.",
+        "employerContact": "Sarah Johnson",
+        "contactDate": "March 28, 2024",
+        "recoveryComments": "I am recovering gradually.",
+        "workerAppId": "APP1002",
+        "submittedDate": "April 1, 2024",
+
+        "notMissed": "no",
+        "notReturned": "no",
+        "returned": "yes",
+
+        "fullRegular": "no",
+        "fullReduced": "yes",
+        "modifiedRegular": "no",
+        "modifiedReduced": "no",
+        "otherWorking": "no",
+
+        "notRecovered": "yes",
+        "recovered": "no"
+    },
+    {
+        "claimNumber": "20042049",
+        "workerName": "Sarah Wilson",
+        "returnDate": "",
+        "returnComment": "I am waiting for further recovery before returning.",
+        "expectedReturnDate": "May 5, 2024",
+        "returnConcerns": "Pain while standing for long periods.",
+        "employerContact": "Mike Anderson",
+        "contactDate": "April 15, 2024",
+        "recoveryComments": "I have not fully recovered yet.",
+        "workerAppId": "APP1003",
+        "submittedDate": "April 20, 2024",
+
+        "notMissed": "no",
+        "notReturned": "yes",
+        "returned": "no",
+
+        "fullRegular": "no",
+        "fullReduced": "no",
+        "modifiedRegular": "yes",
+        "modifiedReduced": "no",
+        "otherWorking": "no",
+
+        "notRecovered": "yes",
+        "recovered": "no"
+    }
+]
